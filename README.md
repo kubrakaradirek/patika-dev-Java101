@@ -69,13 +69,6 @@ I have structured my learning path into organized modules, ranging from basic va
   - 💣 **MineSweeper:** A text-based logic game that integrates all the concepts above.
 
 ---
-
-## 🚀 Execution
-To explore a specific module:
-1. Clone the repo: `git clone https://github.com/kubrakaradirek/java-backend-bootcamp.git`
-2. Navigate to the relevant package.
-3. Run the `Main.java` file using your preferred Java IDE.
-
 ## 🤝 Contact
 Kübra Karadirek - [LinkedIn](https://www.linkedin.com/in/kubrakaradirek/)
 
